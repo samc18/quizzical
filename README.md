@@ -1,0 +1,1 @@
+My take on the quizzical project from Scrimba (https://scrimba.com/) Frontend Developer Career Path!
